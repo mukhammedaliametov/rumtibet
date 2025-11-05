@@ -11,7 +11,7 @@ const Hero = () => {
     >
       <div className="w-full md:max-w-[1220px] mx-auto px-[16px] xl:px-0 text-white">
         <div className="mb-[30px]">
-          <h1 className="text-[30px]/[35px] md:text-[50px]/[57px] tracking-[1.5px] font-bold mb-[15px] w-full lg:w-[920px]">
+          <h1 className="text-[25px]/[30px] md:text-[50px]/[57px] tracking-[1.5px] font-bold mb-[15px] w-full lg:w-[920px]">
             Насладись прогулкой в горах с командой единомышленников
           </h1>
           <div className="inline-block">
